@@ -1,0 +1,24 @@
+CHRISTMAS CELEBRATION 2026 – FESTIVE HOUSE EDITION
+
+Cac tep chinh:
+- index.html: website khach hang.
+- admin.html: trang quan tri.
+- music/noel.mp3: nhac Giang Sinh nhe nhang, ban phoi khi khuc nguyen tac, dai 2 phut 30 giay.
+- sql/CAI-DAT-NHAC-NOEL.sql: SQL bat tinh nang Admin thay nhac.
+
+HIEU UNG MOI
+- Ong gia Noel cung xe truot tuyet va dan tuan loc bay ngang man hinh theo chu ky.
+- Khu vuc hero duoc doi thanh khung canh ngoi nha Noel: cay thong, qua tang, ong gia Noel, lo lua va day den.
+- Bo lop tuyet roi va cac dai cuc quang/trang tri mua dong cu.
+
+QUAN LY NHAC
+1. Mo Supabase Dashboard > SQL Editor.
+2. Mo tep sql/CAI-DAT-NHAC-NOEL.sql, dan noi dung va Run mot lan.
+3. Dang nhap admin.html bang tai khoan Admin.
+4. Trong muc “Nhac nen Giang Sinh”, chon MP3/WAV/OGG va bam “Tai nhac moi len”.
+5. Khach truy cap chi co nut phat/tam dung va dieu chinh am luong; khong co chuc nang tai nhac len.
+
+Luu y: Trinh duyet thuong chan tu dong phat am thanh khi khach chua tuong tac. Khach chi can bam nut phat nhac; khong can tai len hay them tep nhac. Sau khi chay SQL, Admin co the quan ly nhac dung tren Supabase Storage.
+
+LUU Y VE TU DONG PHAT
+Mot so trinh duyet (dac biet iPhone/Safari) khong cho phep tu dong phat nhac khi nguoi dung chua cham vao trang. Nut phat nhac se hien o goc duoi; khach chi can bam mot lan de nghe. Nhac da duoc dong goi san, khong can khach them tep.
